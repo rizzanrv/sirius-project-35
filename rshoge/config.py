@@ -1,3 +1,3 @@
-TOKEN='MTIwNTQ5Nzc5MjUwODk4NTQwNA.GmyO3g.mXJflNCO148wbdnAgUb9cUU-Z6dsrcwZ5AZh44'
+TOKEN='WRITE_TOKEN_HERE | Токен удалён из-за соображения безопасности.'
 
 # Тестовый Discord сервер: https://discord.gg/VSfhDUtH
